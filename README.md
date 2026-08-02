@@ -3,3 +3,5 @@
 My journey to become a Backend + Automation + AI Engineer.
 
 Started: 2026-08-01
+
+Learning Git with Project Phoenix
